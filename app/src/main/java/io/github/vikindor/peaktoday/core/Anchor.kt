@@ -11,5 +11,5 @@ data class Anchor(
 fun defaultAnchor(): Anchor =
     Anchor(
         switchUtc = ZonedDateTime.of(2025, 9, 1, 17, 0, 0, 0, ZoneOffset.UTC),
-        mapAfterSwitch = MapType.Mesa
+        mapAfterSwitch = MapType.Alpine
     )
