@@ -1,6 +1,7 @@
 ### Gradle ###
 .gradle/
 build/
+app/release/
 
 ### Android Studio / IntelliJ IDEA ###
 *.iml
