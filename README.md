@@ -5,7 +5,7 @@ Peak Today (Android)
 <h2 align="center">
 ❗️WARNING:❗️<br>
 The Android app version 1.2.4 is currently out of sync and will show the wrong map.<br>
-This will be fixed soon — please use the web version for now.
+This will be fixed soon — please use the <a href="https://github.com/Vikindor/peaktoday-android" target="_blank">web version</a> for now.
 </h2>
 
 ## 📌 About
@@ -19,9 +19,9 @@ App is not using any original assets from the game.
 All rights to **PEAK** and its assets belong to **Landfall Games**.
 No copyright or trademark infringement is intended.
 
-## 📱 Screenshots
+## 📱 Screenshot
 
-<img src="screenshots/peak_scr_andr.jpg" width="400"/>
+<img src="screenshots/peak_scr_andr.jpg" width="400" alt="Main screen screenshot" title="Main screen"/>
 
 ## ✨ Features
 
@@ -45,7 +45,3 @@ Go to the [Releases](https://github.com/vikindor/peak-maps-today/releases) page 
 - Android SDK
 - Jetpack Compose (UI)
 - Material Design
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
