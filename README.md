@@ -5,7 +5,7 @@ Peak Today (Android)
 <h2 align="center">
 ❗️WARNING:❗️<br>
 The Android app version 1.2.4 is currently out of sync and will show the wrong map.<br>
-This will be fixed soon — please use the <a href="https://vikindor.github.io/peaktoday//" target="_blank">web version</a> for now.
+This will be fixed soon — please use the <a href="https://vikindor.github.io/peaktoday/" target="_blank">web version</a> for now.
 </h2>
 
 ## 📌 About
