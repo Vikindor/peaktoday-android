@@ -1,4 +1,12 @@
-# Peak Today
+<h2 align="center">
+Peak Today (Android)
+</h2>
+
+<h2 align="center">
+❗️WARNING:❗️<br>
+The Android app version 1.2.4 is currently out of sync and will show the wrong map.<br>
+This will be fixed soon — please use the web version for now.
+</h2>
 
 ## 📌 About
 
@@ -13,7 +21,7 @@ No copyright or trademark infringement is intended.
 
 ## 📱 Screenshots
 
-<img src="screenshots/peak_scr_main.jpg" width="400"/>
+<img src="screenshots/peak_scr_andr.jpg" width="400"/>
 
 ## ✨ Features
 
