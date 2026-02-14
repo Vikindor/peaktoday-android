@@ -1,11 +1,12 @@
-<h2 align="center">
+<h1 align="center">
 Peak Today (Android)
-</h2>
+</h1>
 
 <h2 align="center">
-❗️WARNING:❗️<br>
-The Android app version 1.2.4 is currently out of sync and will show the wrong map.<br>
-This will be fixed soon — please use the <a href="https://vikindor.github.io/peaktoday/" target="_blank">web version</a> for now.
+❗️NOTICE:❗️<br>
+This application is no longer maintained.<br><br>
+The PEAK developers have significantly changed the map rotation logic, making it impossible to automatically track or reliably predict rotations at this time.<br><br>
+Due to these changes, further updates are not planned at this time.
 </h2>
 
 ## 📌 About
