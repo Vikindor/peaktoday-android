@@ -3,8 +3,7 @@ Peak Today (Android)
 </h1>
 
 > ⚠️ **Notice:**  
-> This application is no longer maintained.  
-> The PEAK developers have significantly changed the map rotation logic, making it impossible to automatically track or reliably predict rotations at this time.  
+> This application is no longer maintained. The PEAK developers have significantly changed the map rotation logic, making it impossible to automatically track or reliably predict rotations at this time.  
 > Due to these changes, further updates are not planned at this time.
 
 ## 📌 About
